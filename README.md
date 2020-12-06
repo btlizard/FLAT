@@ -1,3 +1,3 @@
-# Headline
+# FLAT
 
-> An awesome project.
+> Fluent Automatic Test.
