@@ -54,7 +54,7 @@ When framework need to develop new features in the framework, they create a feat
 
 When test owner want to develop a test case they can create a test case branch from master or release branch. During the develop, they can update from master or release branch to get new feature. If a user find a bug in the framework, they will report the bug on the Jira system. Then framework team will need a bug fix branch to fix the bug. After the bug is fixed they can update again.
 
-![image-20201207221844966](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20201207221844966.png)
+![image-20201207221844966](../_pic/image-20201207221844966.png)
 
 ​                               
 
